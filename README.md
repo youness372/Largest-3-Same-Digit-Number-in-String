@@ -55,7 +55,7 @@ else :
 
 
 
-# *Complexitry ⏳*    
+## *Complexitry ⏳*    
 ---   
 
 - Time complexity:  $$O(n)$$
@@ -64,7 +64,7 @@ else :
 - Space complexity: $$O(n)$$
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
 
-# *The Sumilation 💻*   
+##  *The Sumilation 💻*   
 ```python3 []
 class Solution:
     def largestGoodInteger(self, num: str) -> str:
